@@ -5,7 +5,7 @@
 | Lesson/Task                                                                                              | Structure               | Standards  
 | -------------------------------------------------------------------------------------------------------- |-------------------------| -------------------------------------------------------------------------|
 | Classroom Building                                                                                       | team                    |
-| How to Learn ("how learning to code is different from a traditional learning")                           | lecture                 |
+| How to Learn ("how learning at Turing is different from a traditional learning environment")             | lecture                 |
 | Laptop Distribution                                                                                      |                         |
 | [Environment Setup](http://tutorials.jumpstartlab.com/topics/environment/environment.html)               | independent             |
 
